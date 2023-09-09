@@ -7,7 +7,7 @@
 }
 
 body{
-    background:url('https://img.freepik.com/free-photo/nature-colorful-landscape-dusk-cloud_1203-5705.jpg?w=1060&t=st=1693998292~exp=1693998892~hmac=5cdea825c0b33012b3c3f200aed85b6f4bc2010405bac281c581dbb5a6222828');
+    background:url('./Image/background.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     overflow:hidden;
